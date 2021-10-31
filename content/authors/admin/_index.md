@@ -1,6 +1,6 @@
 ---
 title: Tao He
-role: Professor of Artificial Intelligence
+role: Post-doc of Cognitive Neuroscience
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
