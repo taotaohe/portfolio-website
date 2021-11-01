@@ -1,12 +1,10 @@
 ---
-title: Tao He
-role: Post-doc of Cognitive Neuroscience
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+title: Dr. Tao He
+role: ""
+bio: My research interests include visual perception, prediction and working memory.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - visual perception
+  - prediction and working memory
 social:
   - icon: envelope
     icon_pack: fas
@@ -24,26 +22,23 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Peking University
+    url: https://www.pku.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: Ph.D. in Cognitive Neuroscience
+      institution: Radboud University (Donders Institute for Brain, Cognition and Behaviour)
+      year: 2016
+    - course: M.Ed. in Cognitive Neuroscience
+      institution: Hangzhou Normal Univerisity
+      year: 2013
+    - course: B.Sc. in Psychology
+      institution: Fujian Medical Univerisy
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+email: t.he@pku.edu.cn
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm a post-doc of cognitive neuroscience in Prof. Fang Fang's lab at Peking University. My research interests include visual perception, prediction and working memory, using fMRI, MEG, Eye-tracking and Psychophysics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
