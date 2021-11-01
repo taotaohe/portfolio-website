@@ -4,7 +4,8 @@ role: ""
 bio: My research interests include visual perception, prediction and working memory.
 interests:
   - visual perception
-  - prediction and working memory
+  - prediction
+  - visual working memory
 social:
   - icon: envelope
     icon_pack: fas
@@ -17,7 +18,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/taotaohe
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -26,16 +27,16 @@ organizations:
     url: https://www.pku.edu.cn/
 education:
   courses:
-    - course: Ph.D. in Cognitive Neuroscience
+    - course: PhD in Cognitive Neuroscience
       institution: Radboud University (Donders Institute for Brain, Cognition and Behaviour)
-      year: 2016
-    - course: M.Ed. in Cognitive Neuroscience
+      year: 2020
+    - course: MEd in Cognitive Neuroscience
       institution: Hangzhou Normal Univerisity
-      year: 2013
-    - course: B.Sc. in Psychology
+      year: 2016
+    - course: BSc in Psychology
       institution: Fujian Medical Univerisy
-      year: 2009
-email: t.he@pku.edu.cn
+      year: 2013
+email: ""
 superuser: true
 highlight_name: true
 ---
