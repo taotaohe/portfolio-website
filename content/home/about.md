@@ -1,10 +1,10 @@
 ---
 widget: about
-widget_id: qqq
+widget_id: 1
 headless: true
 weight: 20
 title: ""
 active: true
 author: admin
 ---
-I am a Post-doc in Psychological and Cognitive Science at [](https://twitter.com/bbkpsychology)Peking University.
+I am a Post-doc in Psychological and Cognitive Science at Peking University.
