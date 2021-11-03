@@ -34,6 +34,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I'm a post-doc of cognitive neuroscience in Prof. Fang Fang's lab at Peking University. My research interests include prediction, perception and working memory, using fMRI, MEG, Eye-tracking and Psychophysics.
+I'm a post-doc of cognitive neuroscience at Prof. Fang Fang's lab, Peking University. My research interests include prediction, perception and working memory, using fMRI, MEG, Eye-tracking and Psychophysics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
