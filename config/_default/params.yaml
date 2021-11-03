@@ -29,9 +29,9 @@ address:
   postcode: '100091'
   country: China
   country_code: CN
-# # coordinates:
-# #   latitude: '37.4275'
-# #   longitude: '-122.1697'
+coordinates:
+  latitude: '116.321449'
+  longitude: '39.993339'
 # # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 # # office_hours:
 # #   - 'Monday 10:00 to 13:00'
