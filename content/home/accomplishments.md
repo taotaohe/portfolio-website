@@ -3,6 +3,9 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
 
+# enable or disable this widget
+active: false
+
 # This file represents a page section.
 headless: true
 
