@@ -23,15 +23,15 @@ twitter: ''
 email: t.he@pku.edu.cn
 # phone: 888 888 88 88
 address:
-  street: 1310 Wangkezhen Building
-  city: Beijing
-  region: Haidian District
+  street: Peking University
+  city: Haidian District
+  region: Beijing
   postcode: '100091'
   country: China
   country_code: CN
-coordinates:
-  latitude: '116.321449'
-  longitude: '39.993339'
+  coordinates:
+    latitude: '116.321449'
+    longitude: '39.993339'
 # # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 # # office_hours:
 # #   - 'Monday 10:00 to 13:00'
