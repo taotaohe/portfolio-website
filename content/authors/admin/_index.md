@@ -1,27 +1,21 @@
 ---
 title: Dr. Tao He
 role: ""
-bio: My research interests include visual perception, prediction and working memory.
+bio: My research interests include prediction, perception and working memory.
 interests:
-  - visual perception
-  - prediction
-  - visual working memory
+  - Prediction
+  - Perception
+  - Visual working memory
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=cJOzinMAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/taotaohe
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
 organizations:
   - name: Peking University
     url: https://www.pku.edu.cn/
@@ -40,6 +34,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I'm a post-doc of cognitive neuroscience in Prof. Fang Fang's lab at Peking University. My research interests include visual perception, prediction and working memory, using fMRI, MEG, Eye-tracking and Psychophysics.
+I'm a post-doc of cognitive neuroscience in Prof. Fang Fang's lab at Peking University. My research interests include prediction, perception and working memory, using fMRI, MEG, Eye-tracking and Psychophysics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
