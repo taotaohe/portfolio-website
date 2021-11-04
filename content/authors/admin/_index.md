@@ -1,11 +1,11 @@
 ---
-title: Dr. Tao He
+title: Tao He, Ph.D.
 role: ""
 bio: My research interests include prediction, perception and working memory.
 interests:
   - Prediction
   - Perception
-  - Visual working memory
+  - Visual Working Memory
 social:
   - icon: envelope
     icon_pack: fas
@@ -34,6 +34,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I'm a Post-doctoral researcher of cognitive neuroscience at Prof. [Fang Fang's](https://www.psy.pku.edu.cn/kxyj/kysys/238242.htm) lab, Peking University. I received my Ph.D. from the [Predictive Brain Lab](https://www.predictivebrainlab.com/) at the Donders Institute for Brain, Cognition and Behaviour, the Netherlands, where I worked with Prof. [Floris de Lange](https://www.predictivebrainlab.com/people-details/floris-de-lange/) and studied prediction. My research interests include prediction, perception and working memory, using fMRI, MEG, Eye-tracking and Psychophysics.
+I'm a Post-doctoral researcher of cognitive neuroscience in Prof. [Fang Fang's](https://www.psy.pku.edu.cn/kxyj/kysys/238242.htm) lab, Peking University. I received my Ph.D. from the [Predictive Brain Lab](https://www.predictivebrainlab.com/) at the Donders Institute for Brain, Cognition and Behaviour, the Netherlands, where I worked with Prof. [Floris de Lange](https://www.predictivebrainlab.com/people-details/floris-de-lange/) and studied prediction. 
+
+My research interests is trying to understand how our perception are modulated by prior knowledge and expectations, and how these in turn influence our behaviour. To address these questions, I use fMRI, MEG, Eye-tracking and Psychophysics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/TaoHe_CV_EN.pdf" "newtab" >}}resumé{{< /staticref >}}.
