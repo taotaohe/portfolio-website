@@ -25,16 +25,16 @@ experience:
   - title: Postdoctoral Fellow
     company: Fang Lab
     company_url: ''
-    company_logo: org-gc
-    location: Beijing
+    company_logo: ''
+    location: Peking University, Beijing
     date_start: '2020-10-08'
     date_end: ''
-    # description: |2-
-    #     Responsibilities include:
+    description: |2-
+        Responsibilities include:
         
-    #     * Analysing
-    #     * Modelling
-    #     * Deploying
+        * Writing and publishing first author work
+        * Grant writing
+        * Decoding neural representations of expectations in humans by virtue of advanced techniques and modelling (Predictive coding, IEM, TDLM)
         
   # - title: Professor of Semiconductor Physics
   #   company: University X
