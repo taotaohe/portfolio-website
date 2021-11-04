@@ -9,9 +9,9 @@ authors:
 - Tao He
 - Joanes Grandjean
 - Judith Homberg
-author_notes:
-- Equal contribution
-- Equal contribution
+# author_notes:
+# - Equal contribution
+# - Equal contribution
 
 date: '2021-01-01'
 doi: 10.1038/s41398-020-01162-0
@@ -26,7 +26,7 @@ publishDate: '2021-11-04T11:28:30.528706Z'
 publication_types:
 - '2'
 publication: '*Translational Psychiatry*'
-publication_short: In *ICW*
+# publication_short: In *ICW*
 
 abstract: Understanding the common dimension of mental disorders (such as anxiety,
   depression, and drug addiction) might contribute to the construction of biological
@@ -47,8 +47,8 @@ abstract: Understanding the common dimension of mental disorders (such as anxiet
   modulates information processing when the environment changes.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
+#   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - '"Learning and memory"'
@@ -71,29 +71,29 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
+# # Featured image
+# # To use, add an image named `featured.jpg/png` to your page's folder. 
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#   focal_point: ''
+#   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
+# # Associated Projects (optional).
+# #   Associate this publication with one or more of your projects.
+# #   Simply enter your project's folder or file name without extension.
+# #   E.g. `internal-project` references `content/project/internal-project/index.md`.
+# #   Otherwise, set `projects: []`.
+# projects:
+# - example
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+# # Slides (optional).
+# #   Associate this publication with Markdown slides.
+# #   Simply enter your slide deck's filename without extension.
+# #   E.g. `slides: "example"` references `content/slides/example/index.md`.
+# #   Otherwise, set `slides: ""`.
+# slides: example
 ---
-
+<!-- 
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
@@ -102,4 +102,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
