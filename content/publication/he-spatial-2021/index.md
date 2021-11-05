@@ -1,17 +1,19 @@
 ---
-title: Spatiotopic, Retinotopic and Object-centered Reference Frames of Inhibition of Return
+title: Spatial and temporal context jointly modulate the sensory response within ventral visual stream
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - taohe
+- David Richter
 - Zhiguo Wang
+- Floris P. de Lange
 # author_notes:
 # - Equal contribution
 # - Equal contribution
 
-date: '2015-04-01'
+date: '2021-12-01'
 doi: 
 
 # Schedule page publish date (NOT publication's date).
@@ -23,7 +25,7 @@ publishDate: ''
 # 7 = Thesis; 8 = Patent
 publication_types:
 - '2'
-publication: '*Journal of Psychological Science* (in Chinese)'
+publication: '*Journal of Cognitive Neuroscience* (In press)'
 # publication_short: In *ICW*
 
 abstract: ''
@@ -42,7 +44,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://www.researchgate.net/publication/285025767_Spatiotopic_Retinotopic_and_Object-centered_Reference_Frames_of_Inhibition_of_Return
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

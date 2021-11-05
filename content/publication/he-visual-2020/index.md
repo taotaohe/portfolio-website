@@ -1,32 +1,51 @@
 ---
-title: Spatiotopic, Retinotopic and Object-centered Reference Frames of Inhibition of Return
+title: Visual working memory representations in visual and parietal cortex do not
+  remap after eye movements
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - taohe
-- Zhiguo Wang
-# author_notes:
-# - Equal contribution
-# - Equal contribution
-
-date: '2015-04-01'
-doi: 
+- Matthias Ekman
+- Annelinde R. E. Vandenbroucke
+- Floris P. de Lange
+date: '2020-03-01'
+doi: 10.1101/747329
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ''
+publishDate: '2021-11-05T06:44:47.499762Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types:
-- '2'
-publication: '*Journal of Psychological Science* (in Chinese)'
+- '3'
+publication: '*boiRxiv*'
 # publication_short: In *ICW*
 
-abstract: ''
+abstract: It has been suggested that our visual system does not only process stimuli
+  that are directly available to our eyes, but also has a role in maintaining information
+  in VWM over a period of seconds. It remains unclear however what happens to VWM
+  representations in the visual system when we make saccades. Here, we tested the
+  hypothesis that VWM representations are remapped within the visual system after
+  making saccades. We directly compared the content of VWM for saccade and no-saccade
+  conditions using MVPA of delay-related activity measured with fMRI. We found that
+  when participants did not make a saccade, VWM representations were robustly present
+  in contralateral early visual cortex. When making a saccade, VWM representations
+  degraded in contralateral V1-V3 after the saccade shifted the location of the remembered
+  grating to the opposite visual field. However, contrary to our hypothesis we found
+  no evidence for the representations of the remembered grating at the saccadic target
+  location in the opposite visual field, suggesting that there is no evidence for
+  remapping of VWM in early visual cortex. Interestingly, IPS showed persistent VWM
+  representations in both the saccade and no-saccade condition. Together, our results
+  indicate that VWM representations in early visual cortex are not remapped across
+  eye movements, potentially limiting the role of early visual cortex in VWM storage.
+  HighlightsVisual working memory (VWM) representations do not remap after making
+  saccadesEye movement degrade VWM representations in early visual cortex, limiting
+  the role of early visual cortex in VWM storageParietal cortex shows persistent VWM
+  representations across saccades
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
@@ -42,7 +61,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://www.researchgate.net/publication/285025767_Spatiotopic_Retinotopic_and_Object-centered_Reference_Frames_of_Inhibition_of_Return
+url_pdf: https://www.biorxiv.org/content/10.1101/747329v2
 url_code: ''
 url_dataset: ''
 url_poster: ''
