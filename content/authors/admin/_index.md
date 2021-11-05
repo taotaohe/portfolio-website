@@ -1,5 +1,8 @@
 ---
-title: Tao He, Ph.D.
+title: Tao He (何涛), Ph.D.
+# Is this the primary user of the site?
+superuser: true
+
 role: ""
 bio: My research interests include prediction, perception and working memory.
 interests:
@@ -31,7 +34,7 @@ education:
       institution: Fujian Medical Univerisy
       year: 2013
 email: ""
-superuser: true
+# Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 I'm a Post-doctoral researcher of cognitive neuroscience in Prof. [Fang Fang's](https://www.psy.pku.edu.cn/kxyj/kysys/238242.htm) lab, Peking University. I received my Ph.D. from the [Predictive Brain Lab](https://www.predictivebrainlab.com/) at the Donders Institute for Brain, Cognition and Behaviour, the Netherlands, where I worked with Prof. [Floris de Lange](https://www.predictivebrainlab.com/people-details/floris-de-lange/) and studied prediction. 
