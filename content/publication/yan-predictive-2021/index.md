@@ -7,7 +7,7 @@ title: Predictive remapping leaves a behaviorally measurable attentional trace o
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Chuyao Yan
-- Tao He
+- taohe
 - Zhiguo Wang
 # author_notes:
 # - Equal contribution

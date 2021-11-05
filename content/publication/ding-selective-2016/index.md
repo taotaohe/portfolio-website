@@ -7,13 +7,13 @@ title: Selective Impairments in Covert Shifts of Attention in Chinese Dyslexic C
 authors:
 - Yun Ding
 - Jing Zhao
-- Tao He
+- taohe
 - Yufei Tan
 - Lingshuang Zheng
 - Zhiguo Wang
-author_notes:
-- Equal contribution
-- Equal contribution
+# author_notes:
+# - Equal contribution
+# - Equal contribution
 
 date: '2016-11-01'
 doi: 10.1002/dys.1541
@@ -28,7 +28,7 @@ publishDate: '2021-11-04T11:21:01.262519Z'
 publication_types:
 - '2'
 publication: '*Dyslexia*'
-publication_short: In *ICW*
+# publication_short: In *ICW*
 
 abstract: Reading depends heavily on the efficient shift of attention. Mounting evidence
   has suggested that dyslexics have deficits in covert attentional shift. However,
@@ -46,9 +46,9 @@ abstract: Reading depends heavily on the efficient shift of attention. Mounting 
   could be a significant contributor to the difficulties encountered by children learning
   to read. Copyright © 2016 John Wiley & Sons, Ltd.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# # Summary. An optional shortened abstract.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
+#   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - '"Attention"'
@@ -73,30 +73,30 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
+# # Featured image
+# # To use, add an image named `featured.jpg/png` to your page's folder. 
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#   focal_point: ''
+#   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
+# # Associated Projects (optional).
+# #   Associate this publication with one or more of your projects.
+# #   Simply enter your project's folder or file name without extension.
+# #   E.g. `internal-project` references `content/project/internal-project/index.md`.
+# #   Otherwise, set `projects: []`.
+# projects:
+# - example
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+# # Slides (optional).
+# #   Associate this publication with Markdown slides.
+# #   Simply enter your slide deck's filename without extension.
+# #   E.g. `slides: "example"` references `content/slides/example/index.md`.
+# #   Otherwise, set `slides: ""`.
+# slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -104,4 +104,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->

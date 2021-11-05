@@ -1,67 +1,44 @@
 ---
-# Display name
 title: Tao He
-
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+role: ""
+bio: My research interests include prediction, perception and working memory.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - Prediction
+  - Perception
+  - Visual Working Memory
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=cJOzinMAAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/taotaohe
+organizations:
+  - name: Peking University
+    url: https://www.pku.edu.cn/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: PhD in Cognitive Neuroscience
+      institution: Radboud University (Donders Institute for Brain, Cognition and Behaviour)
+      year: 2020
+    - course: MEd in Cognitive Neuroscience
+      institution: Hangzhou Normal Univerisity
+      year: 2016
+    - course: BSc in Psychology
+      institution: Fujian Medical Univerisy
+      year: 2013
 email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I'm a Post-doctoral researcher of cognitive neuroscience in Prof. [Fang Fang's](https://www.psy.pku.edu.cn/kxyj/kysys/238242.htm) lab, Peking University. I received my Ph.D. from the [Predictive Brain Lab](https://www.predictivebrainlab.com/) at the Donders Institute for Brain, Cognition and Behaviour, the Netherlands, where I worked with Prof. [Floris de Lange](https://www.predictivebrainlab.com/people-details/floris-de-lange/) and studied prediction. 
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research interests is trying to understand how our perception are modulated by prior knowledge and expectations, and how these in turn influence our behaviour. To address these questions, I use fMRI, MEG, Eye-tracking and Psychophysics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/TaoHe_CV_EN.pdf" "newtab" >}}resumé{{< /staticref >}}.
