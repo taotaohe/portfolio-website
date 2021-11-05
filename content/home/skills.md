@@ -21,15 +21,15 @@ feature:
   icon_pack: fas
   name: Neuroimaging Processing and Analysis
 - description: ''
-  icon: chart-line
+  icon: database
   icon_pack: fas
   name: Data Analysis and Statistics
 - description: ''
-  icon: quota-right
+  icon: quote-right
   icon_pack: fas
   name: Science Communication and Writing
 - description: ''
-  icon: head-side-brain
+  icon: keyboard
   icon_pack: fas
   name: Machine Learning
 - description: ''
