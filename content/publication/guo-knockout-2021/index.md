@@ -6,7 +6,7 @@ title: Knockout serotonin transporter in rats moderates outcome and stimulus gen
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Chao Ciu-Gwok Guo
-- Tao He
+- taohe
 - Joanes Grandjean
 - Judith Homberg
 # author_notes:
