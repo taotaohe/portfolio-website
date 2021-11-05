@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: minimal
+theme: Mr Robot #Forest #minimal
 day_night: true
-font: ''
+font: '' # Minimal; Classic; Rose; Mr Robot; Native
 font_size: L
 
 # SEO
