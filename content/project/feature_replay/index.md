@@ -1,5 +1,5 @@
 ---
-title: Feature information involved in replay
+title: Recall of past experiences
 summary: Feature information involved in replay
 tags:
 - Ongoing
