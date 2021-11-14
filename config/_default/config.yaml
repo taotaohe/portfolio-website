@@ -5,7 +5,7 @@
 
 title: Tao He # Website name
 baseurl: 'https://tao-he.netlify.app/' # Website URL
-copyright: © {2021} Tao He        Powered by the [Academic theme](https://wowchemy.com/hugo-themes/) for Hugo. # Footer text, e.g. '© {year} Me'
+copyright: © {2021} Tao He                  Powered by the [Academic theme](https://wowchemy.com/hugo-themes/) for [Hugo](https://gohugo.io/). # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
