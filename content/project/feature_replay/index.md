@@ -1,6 +1,6 @@
 ---
 title: Feature information involved in replay
-summary: Predictive remapping of visual features beyond saccadic targets
+summary: Feature information involved in replay
 tags:
 - Ongoing
 date: "2021-11-14T00:00:00Z"
@@ -36,8 +36,6 @@ url_video: ""
 slides: ''
 ---
 
-Each time we move our eyes, the image of objects in the world shifts its position on the retina, yet our perception is remarkably stable. Predictive remapping is thought to be an underlying neural mechanism to this visual stability. In our recent studies, we investigated the spatial and featural properties of predictive remapping.
+Humans are adept at making inferences by integrating past experiences or knowledge of how things relate to each other. In spatial tasks, cells, including place and grid cells, spontaneously recapitulate old and explore new spatial trajectories — a phenomenon known as ‘replay’. In our recent studies, we explored whether feature information involved in replay.
 
-In a set of three psychophysical studies, after a long exposure phase of an adaptor, we presented a test stimulus at different critical locations just before the onset of an eye movement. We found strong evidence for predictive remapping of feature information that is presented shortly before saccade onset but no remapping of adaptation by the adaptor. This pre-saccadic remapping also occurred for stimuli that were not saccade targets, pointing toward a forward remapping process operating across the whole visual field.
-
-Together, our findings suggest that predictive feature remapping of object information plays an important role in mediating visual stability.
+Our preliminary results showed that feature information indeed involved in replay. Importantly, our brain replays these feature information in an reversed order and temporally compressed pattern. 
