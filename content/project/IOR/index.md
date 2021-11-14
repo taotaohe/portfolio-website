@@ -1,6 +1,6 @@
 ---
 title: Environment- and eye-centered inhibitory cueing effects are both observed after a methodological confound is eliminated
-summary: Environment- and eye-centered inhibitory cueing effects are both observed after a methodological confound is eliminated.
+summary: ''
 tags:
 - Publised
 date: "2015-11-13T00:00:00Z"
@@ -15,7 +15,7 @@ external_link: ""
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
   caption: ''
-  Placement: 2
+  Placement: 1
   focal_point: Smart
 
 # links:
