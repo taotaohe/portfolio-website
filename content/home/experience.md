@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Experience
+title: Academic experience
 subtitle:
 
 # Date format for experience
@@ -32,8 +32,8 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Writing and publishing first author work
-        * Grant writing
+        * Writing and publishing first author works
+        * Grant writing (China Postdoctoral Science Foundation)
         * Decoding neural representations of expectations in humans by virtue of advanced techniques and modelling (Predictive coding, IEM, TDLM)
         
   # - title: Professor of Semiconductor Physics
