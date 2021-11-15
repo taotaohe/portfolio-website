@@ -1,5 +1,5 @@
 ---
-title: Environment- and eye-centered inhibitory cueing effects are both observed after a methodological confound is eliminated
+title: Environment- and eye-centered inhibitory cueing effects
 summary: ''
 tags:
 - Publised
