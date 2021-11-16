@@ -23,6 +23,8 @@ social:
     icon_pack: fas
     link: uploads/TaoHe_PhD_thesis.pdf
     label: My PhD thesis
+    display:
+      header: true
 organizations:
   - name: Peking University
     url: https://www.pku.edu.cn/
