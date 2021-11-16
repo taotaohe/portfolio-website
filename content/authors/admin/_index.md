@@ -13,12 +13,16 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=cJOzinMAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/taotaohe
+  - icon: graduation-cap
+    icon_pack: fas
+    link: uploads/TaoHe_PhD_thesis.pdf
+    label: My PhD thesis
 organizations:
   - name: Peking University
     url: https://www.pku.edu.cn/

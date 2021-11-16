@@ -7,4 +7,4 @@ title: ""
 active: true
 author: admin
 ---
-I am a Post-doc in Psychological and Cognitive Science at Peking University.
+I am a Post-doctoral researcher of Cognitive Neuroscience at Peking University.

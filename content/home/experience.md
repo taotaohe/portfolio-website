@@ -35,6 +35,7 @@ experience:
         * Writing and publishing first author works
         * Grant writing (China Postdoctoral Science Foundation)
         * Decoding neural representations of expectations in humans by virtue of advanced techniques and modelling (Predictive coding, IEM, TDLM)
+        * Daily supervisor for PhD students, Research Assistants and Undergraduates
         
   # - title: Professor of Semiconductor Physics
   #   company: University X
