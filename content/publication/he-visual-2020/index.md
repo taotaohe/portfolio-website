@@ -22,7 +22,7 @@ publishDate: '2021-11-05T06:44:47.499762Z'
 # 7 = Thesis; 8 = Patent
 publication_types:
 - '3'
-publication: '*boiRxiv*'
+publication: '*bioRxiv*'
 # publication_short: In *ICW*
 
 abstract: It has been suggested that our visual system does not only process stimuli
