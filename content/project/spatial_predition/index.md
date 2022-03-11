@@ -15,7 +15,7 @@ external_link: ""
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
   caption: ''
-  Placement: 2
+  Placement: 1
   focal_point: Smart
 
 # links:

@@ -1,9 +1,9 @@
 ---
-title: How spatial context of expectations modulate our perception? 
-summary: Spatial and temporal context jointly modulate the sensory response within the ventral visual stream.
+title: Decipher prediction uncertainty from human occipital cortex 
+summary: Using MEG in combination with a generative model-based analysis, we aimed to decode the uncertainty of prediction.
 tags:
-- Publised
-date: "2021-11-06T00:00:00Z"
+- Ongoing
+date: "2022-03-11T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -15,7 +15,7 @@ external_link: ""
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
   caption: ''
-  Placement: 2
+  Placement: 1
   focal_point: Smart
 
 # links:
@@ -36,7 +36,7 @@ url_video: ""
 slides: ''
 ---
 
-Humans are exquisitely sensitive to visual statistical regularities. Both spatial and temporal context play an important role in visual perception and behavior. We can extract statistical regularities from both forms of context to help processing the present and to construct expectations about the future. Numerous studies have found reduced neural responses to expected stimuli compared to unexpected stimuli, for both spatial and temporal regularities. However, it is largely unclear whether and how these forms of context interact. In the current study, we set out to concurrently examine the neural and behavioral consequences of spatial and temporal contextual expectations following statistical learning.
+Figurally speaking, our brain has been described as a ‘prediction machine’ that attempts to match incoming sensory inputs with top-down expectations. Such expectations have been 'observed' many times in the brain. Although prediction plays a key role in many cognitive processes, the neural activity that supports prediction is noisy. Nevertheless, we know little about how prediction uncertainty is represented in the brain. In the current project, we aimed to investigate the uncertainty of prediction by using MEG in combination with a generative model-based analysis.
 
 <!-- {{< figure src="111.jpg" caption="testfigure" numbered="true" >}} -->
-We show that spatial and temporal context both modulate sensory processing in the ventral visual stream, with pronounced reductions in neural responses to stimuli predicted by spatial and temporal context, compared to stimuli occurring in unexpected contexts. Interestingly, these modulations were evident in comparable cortical areas, suggesting that spatial and temporal context modulate sensory processing in a similar fashion.
+Our preliminary results showed that both the content and the uncertainty of prediction can be decoded from human occipital cortex. Furthermore, humans know the uncertainty of their prediction and use it to make decisions. Finally, decoded uncertainty correlates with behavioral reports of prediction uncertainty.
