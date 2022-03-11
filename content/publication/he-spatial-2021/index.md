@@ -13,7 +13,7 @@ authors:
 # - Equal contribution
 # - Equal contribution
 
-date: '2021-11-01'
+date: '2022-01-05'
 doi: 
 
 # Schedule page publish date (NOT publication's date).
@@ -25,7 +25,7 @@ publishDate: ''
 # 7 = Thesis; 8 = Patent
 publication_types:
 - '2'
-publication: '*Journal of Cognitive Neuroscience* (In press)'
+publication: '*Journal of Cognitive Neuroscience*'
 # publication_short: In *ICW*
 
 abstract: ''
