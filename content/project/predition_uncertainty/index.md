@@ -1,6 +1,6 @@
 ---
-title: Decipher prediction uncertainty from human occipital cortex 
-summary: Using MEG in combination with a generative model-based analysis, we aimed to decode the uncertainty of prediction.
+title: Decipher prediction uncertainty in humans
+summary: Using MEG in combination with a generative model-based analysis, we aim to decode the uncertainty of prediction.
 tags:
 - Ongoing
 date: "2022-03-11T00:00:00Z"
@@ -36,7 +36,7 @@ url_video: ""
 slides: ''
 ---
 
-Figurally speaking, our brain has been described as a ‘prediction machine’ that attempts to match incoming sensory inputs with top-down expectations. Such expectations have been 'observed' many times in the brain. Although prediction plays a key role in many cognitive processes, the neural activity that supports prediction is noisy. Nevertheless, we know little about how prediction uncertainty is represented in the brain. In the current project, we aimed to investigate the uncertainty of prediction by using MEG in combination with a generative model-based analysis.
+Figurally speaking, our brain has been described as a ‘prediction machine’ that attempts to match incoming sensory inputs with top-down expectations. Such expectations have been 'observed' many times in the brain. Although prediction plays a key role in many cognitive processes, the neural activity that supports prediction is noisy. Nevertheless, we know little about how prediction uncertainty is represented in the brain. In the current project, we aim to investigate the uncertainty of prediction by using MEG in combination with a generative model-based analysis.
 
 <!-- {{< figure src="111.jpg" caption="testfigure" numbered="true" >}} -->
 Our preliminary results showed that both the content and the uncertainty of prediction can be decoded from human occipital cortex. Furthermore, humans know the uncertainty of their prediction and use it to make decisions. Finally, decoded uncertainty correlates with behavioral reports of prediction uncertainty.

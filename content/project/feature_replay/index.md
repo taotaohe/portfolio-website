@@ -1,6 +1,6 @@
 ---
 title: Recall of past feature information
-summary: Backward Feature replay during rest
+summary: Backward feature replay during rest
 tags:
 - Ongoing
 date: "2021-11-14T00:00:00Z"

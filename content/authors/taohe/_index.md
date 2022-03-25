@@ -37,8 +37,8 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I'm a Post-doctoral researcher of cognitive neuroscience in Prof. [Fang Fang](https://www.psy.pku.edu.cn/kxyj/kysys/238242.htm)'s lab, Peking University. I received my Ph.D. from the [Predictive Brain Lab](https://www.predictivebrainlab.com/) at the Donders Institute for Brain, Cognition and Behaviour, the Netherlands, where I worked with Prof. [Floris de Lange](https://www.predictivebrainlab.com/people-details/floris-de-lange/) and studied prediction. 
+I'm a Post-doctoral researcher of cognitive neuroscience in Prof. [Fang Fang](https://www.psy.pku.edu.cn/kxyj/kysys/238242.htm)'s lab, Peking University. I received my Ph.D. from the [Predictive Brain Lab](https://www.predictivebrainlab.com/) at the [Donders Institute for Brain, Cognition and Behaviour](https://www.ru.nl/donders/), the Netherlands, where I worked with Prof. [Floris de Lange](https://www.predictivebrainlab.com/people-details/floris-de-lange/) and studied prediction. 
 
-My research interests is trying to understand how our perception are modulated by prior knowledge and expectations, and how these in turn influence our behaviour. To address these questions, I use fMRI, MEG, Computational modelling, Eye-tracking and Psychophysics.
+My research interests is trying to understand how our visual perception are modulated by prior knowledge and expectations, and how these in turn influence our behaviour. To address these questions, I use fMRI, MEG, Computational modelling, Eye-tracking and Psychophysics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/TaoHe_CV_EN.pdf" "newtab" >}}resumé{{< /staticref >}}.
