@@ -23,8 +23,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Postdoctoral Fellow
-    company: Fang Lab
-    company_url: ''
+    company: Fang Lab, School of Psychological and Cognitive Sciences
+    company_url: 'https://www.psy.pku.edu.cn/'
     company_logo: ''
     location: Peking University, Beijing
     date_start: '2020-10-08'
@@ -36,10 +36,10 @@ experience:
         * Grant writing (China Postdoctoral Science Foundation)
         * Decoding neural representations of expectations in humans by virtue of advanced techniques and modelling (Predictive coding, IEM, TDLM)
         * Daily supervisor for PhD students, Research Assistants and Undergraduates
-        
+
   - title: Assistant Professor
     company: Center for the Cognitive Science of Language
-    company_url: ''
+    company_url: 'https://ccsl.blcu.edu.cn/'
     company_logo: ''
     location: Beijing Language and Culture University, Beijing
     date_start: '2022-09-19'
