@@ -31,12 +31,10 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        
         * Writing and publishing papers
         * Supervisor for Master students
         * Doing research and writing grant
         * Teaching courses for master students
-
   - title: Postdoctoral Fellow
     company: Fang Lab
     company_url: ''
