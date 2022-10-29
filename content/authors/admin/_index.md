@@ -40,7 +40,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I'm a Post-doctoral researcher of cognitive neuroscience in Prof. [Fang Fang](https://www.psy.pku.edu.cn/kxyj/kysys/238242.htm)'s lab, Peking University. I received my Ph.D. from the [Predictive Brain Lab](https://www.predictivebrainlab.com/) at the [Donders Institute for Brain, Cognition and Behaviour](https://www.ru.nl/donders/), the Netherlands, where I worked with Prof. [Floris P. de Lange](https://www.predictivebrainlab.com/people-details/floris-de-lange/) and studied prediction. 
+I'm an assistant professor at the Beijing Language and Culture University in Beijing, China. I received my Ph.D. in Cognitive Neuroscience in 2020 at Radboud University in Nijmegen, Netherlands. I spent four years in the [Predictive Brain Lab](https://www.predictivebrainlab.com/) at the [Donders Institute for Brain, Cognition and Behaviour](https://www.ru.nl/donders/), where I worked with Prof. [Floris P. de Lange](https://www.predictivebrainlab.com/people-details/floris-de-lange/) and studied human prediction. From 2020 - 2022, I was a post-doctoral fellow in the lab of Prof. [Fang Fang](https://www.psy.pku.edu.cn/kxyj/kysys/238242.htm) at Peking University, Beijing, China.  
 
 My research interests is trying to understand how our visual perception are modulated by prior knowledge and expectations, and how these in turn influence our behaviour. To address these questions, I use fMRI, MEG, Computational modelling, Eye-tracking and Psychophysics.
 
