@@ -20,18 +20,18 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: t.he@pku.edu.cn
+email: t.he@blcu.edu.cn
 # phone: 888 888 88 88
 address:
-  street: No.5 Yiheyuan Road
+  street: No.15 Xueyuan Road
   city: Haidian District
   region: Beijing
   postcode: '100871'
   country: P.R.China
   country_code: CN
 coordinates:
-  latitude: '39.986119'
-  longitude: '116.308837'
+  latitude: '39.99'
+  longitude: '116.35'
 # # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 # # office_hours:
 # #   - 'Monday 10:00 to 13:00'
