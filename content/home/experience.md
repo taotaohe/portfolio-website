@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Academic experience
+title: Work experience
 subtitle:
 
 # Date format for experience
@@ -22,6 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Assistant Professor
+    company: Center for the Cognitive Science of Language
+    company_url: ''
+    company_logo: ''
+    location: Beijing Language and Culture University, Beijing
+    date_start: '2022-9-19'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Writing and publishing papers
+        * Supervisor for Master students
+        * Doing research and writing grant
+        * Teaching courses for master students
+
   - title: Postdoctoral Fellow
     company: Fang Lab
     company_url: ''
