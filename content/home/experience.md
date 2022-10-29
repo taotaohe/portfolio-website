@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: ''
     location: Beijing Language and Culture University, Beijing
-    date_start: '2022-9-19'
+    date_start: '2022-11-19'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -36,7 +36,7 @@ experience:
         * Supervisor for Master students
         * Doing research and writing grant
         * Teaching courses for master students
-        
+
   - title: Postdoctoral Fellow
     company: Fang Lab
     company_url: ''
