@@ -4,11 +4,11 @@ title: Tao He (何涛), Ph.D.
 superuser: true
 
 role: ""
-bio: My research interests include prediction, perception and working memory.
+bio: My research interests include prediction, multisensory perception and working memory.
 interests:
   - Prediction
-  - Perception
-  - Visual Working Memory
+  - Multisensory Perception
+  - Working Memory
 social:
   - icon: envelope
     icon_pack: fas
@@ -23,8 +23,8 @@ social:
     icon_pack: fas
     link: uploads/TaoHe_PhD_thesis.pdf
 organizations:
-  - name: Peking University
-    url: https://www.pku.edu.cn/
+  - name: Beijing Language and Culture University
+    url: http://www.blcu.edu.cn/
 education:
   courses:
     - course: PhD in Cognitive Neuroscience

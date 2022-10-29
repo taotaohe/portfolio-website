@@ -43,7 +43,7 @@ experience:
     company_logo: ''
     location: Peking University, Beijing
     date_start: '2020-10-08'
-    date_end: ''
+    date_end: '2022-09-18'
     description: |2-
         Responsibilities include:
         
